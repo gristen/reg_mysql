@@ -1,0 +1,44 @@
+ ::selection{
+	 background: #ffc0cb; // розовое выделение текста
+ }
+
+.logo{
+	text-decoration:none;
+}
+
+.submit{
+	display: flex;
+	margin-left: 40%;
+
+}
+
+.btn.btn-primary{
+	margin-right: 3px;
+
+}
+.logo_title{
+	margin: 20px 0 0 0;
+	color: #000;
+	font-size: 33px;
+	text-transform: uppercase;
+	text-decoration:none;
+	 margin-bottom: 20px;
+	 font-weight: 400;
+
+
+}
+
+
+.row.logo{
+	width: 100px;
+
+    margin: auto;
+}
+.form_style{
+	width: 100%;
+	margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #00000029;
+   padding: 12px;
+
+}
